@@ -18,7 +18,10 @@ h1 {
   font-family: 'Sacramento', cursive;
   font-size: 4rem;
 }
-
+.contact-message{
+  width: 30%;
+  margin: auto;
+}
 body {
   color:#40514E;
   margin: 0;
@@ -43,6 +46,10 @@ a{
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
+}
+.intro{
+  width: 30%;
+  margin:auto;
 }
 .copyright{
   color: #EAF6F6;
@@ -131,3 +138,5 @@ hr {
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
+
+
